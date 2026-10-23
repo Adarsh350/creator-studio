@@ -1,0 +1,12 @@
+{
+  "name": "creator-studio",
+  "private": true,
+  "description": "Claude Code skill: one door for every video, rendered locally and free.",
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/narrate.mjs --self-test && node scripts/capture-site.mjs --self-test"
+  },
+  "dependencies": {
+    "playwright": "1.59.1"
+  }
+}
