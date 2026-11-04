@@ -22,7 +22,7 @@ Whose service? Iyara → load `iyara-voice` + `iyara-labs` (`services.md` for ex
 - **Prices** verbatim, setup and monthly together (Engine: `$1,500 setup + $300/mo`). Never "from" unless the page says "from". Never a discount.
 - **Banned:** guarantees of rankings, recommendations or results; superlatives (best, #1, leading, premier, award-winning without the award); exclusivity; disparaging a competitor (UAE Media Law 55/2023, fines AED 5,000 to 1,000,000; FTC needs a reasonable basis for AI claims); page speed or load time as proof.
 - **Mocked UI is illustrative:** fictional business names ("Al Noor Dental", "Harbor Tax Partners"), never a real competitor in a mocked AI answer, never a real client without consent. Put a small `Illustrative` tag on any mock, as the site does ("ILLUSTRATIVE SAMPLE. NOT CLIENT DATA.").
-- **Iyara rules:** service names exact (The AI Visibility Engine · Next-Generation AI Websites · Conversational AI & Customer Engagement · Data Analytics & Dashboarding · AI Consulting & Implementation); packages Engine · Presence · Engage · Autopilot · Transform; tiers Essentials · Growth · Ultra. No GEO/AEO/SEO/LLM jargon spoken or shown: say the scenario ("when someone asks ChatGPT who to hire"). Zero em or en dashes in captions and cards.
+- **Iyara rules:** service names exact (The AI Visibility Engine · Next-Generation AI Websites · Conversational AI & Customer Engagement · Data Analytics & Dashboarding · AI Consulting & Implementation); packages Engine · Presence · Engage · Autopilot · Transform; tiers Essentials · Growth · Pro · Ultra, all starting prices. No GEO/AEO/SEO/LLM jargon spoken or shown: say the scenario ("when someone asks ChatGPT who to hire"). Zero em or en dashes in captions and cards.
 
 ## 3. Script
 
